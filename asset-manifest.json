@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fasalprajauljain/static/css/main.398503a8.css",
+    "main.js": "/fasalprajauljain/static/js/main.a1425368.js",
+    "static/js/453.06bb44f8.chunk.js": "/fasalprajauljain/static/js/453.06bb44f8.chunk.js",
+    "index.html": "/fasalprajauljain/index.html",
+    "main.398503a8.css.map": "/fasalprajauljain/static/css/main.398503a8.css.map",
+    "main.a1425368.js.map": "/fasalprajauljain/static/js/main.a1425368.js.map",
+    "453.06bb44f8.chunk.js.map": "/fasalprajauljain/static/js/453.06bb44f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398503a8.css",
+    "static/js/main.a1425368.js"
+  ]
+}
